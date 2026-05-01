@@ -1,0 +1,6 @@
+{"tokens": ["Participants", "had", "a", "mean", "age", "of", "55", "years", "."], "labels": ["O", "O", "O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "success", "rate", "was", "88", "%", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["A", "total", "of", "400", "subjects", "were", "included", "."], "labels": ["O", "O", "O", "B-SAMPLE_SIZE", "I-SAMPLE_SIZE", "O", "O", "O"]}
+{"tokens": ["Median", "PFS", "was", "18", "months", "."], "labels": ["B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["Patients", "received", "10", "mg", "of", "drug", "daily", "."], "labels": ["O", "O", "B-QUANT", "B-UNIT", "O", "O", "O", "O"]}
+{"tokens": ["Median", "tumor", "volume", "was", "35", "cm3", "."], "labels": ["B-METRIC", "I-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}

@@ -1,0 +1,8 @@
+spacy>=3.7
+transformers>=4.39
+datasets>=2.18
+seqeval>=1.2.2
+scikit-learn>=1.4
+torch>=2.2
+numpy>=1.26
+pandas>=2.2

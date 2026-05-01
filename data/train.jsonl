@@ -1,0 +1,48 @@
+{"tokens": ["The", "study", "included", "110", "patients", "."], "labels": ["O", "O", "O", "B-SAMPLE_SIZE", "I-SAMPLE_SIZE", "O"]}
+{"tokens": ["A", "group", "of", "90", "patients", "was", "analyzed", "."], "labels": ["O", "O", "O", "B-SAMPLE_SIZE", "I-SAMPLE_SIZE", "O", "O", "O"]}
+{"tokens": ["The", "response", "time", "was", "3", "seconds", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["Treatment", "duration", "was", "12", "weeks", "."], "labels": ["B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["Blood", "pressure", "reduction", "was", "10", "mmHg", "."], "labels": ["B-METRIC", "I-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "sample", "size", "was", "200", "patients", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-SAMPLE_SIZE", "I-SAMPLE_SIZE", "O"]}
+{"tokens": ["The", "treatment", "effectiveness", "was", "65", "%", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["Median", "creatinine", "level", "was", "1.2", "mg", "/", "dl", "."], "labels": ["B-METRIC", "I-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "I-UNIT", "I-UNIT", "O"]}
+{"tokens": ["The", "duration", "of", "therapy", "was", "8", "weeks", "."], "labels": ["O", "B-METRIC", "O", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "drug", "concentration", "was", "2.5", "mg", "/", "ml", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "I-UNIT", "I-UNIT", "O"]}
+{"tokens": ["A", "cohort", "of", "60", "patients", "was", "studied", "."], "labels": ["O", "O", "O", "B-SAMPLE_SIZE", "I-SAMPLE_SIZE", "O", "O", "O"]}
+{"tokens": ["The", "improvement", "rate", "was", "40", "%", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "average", "height", "was", "170", "cm", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "recovery", "time", "was", "5", "days", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["Median", "age", "was", "60", "years", "."], "labels": ["B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "trial", "duration", "was", "52", "weeks", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["Overall", "survival", "reached", "24", "months", "."], "labels": ["B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["Median", "time", "to", "progression", "was", "9", "months", "."], "labels": ["B-METRIC", "I-METRIC", "I-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "average", "dose", "was", "7.5", "mg", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["A", "total", "of", "245", "patients", "were", "enrolled", "."], "labels": ["O", "O", "O", "B-SAMPLE_SIZE", "I-SAMPLE_SIZE", "O", "O", "O"]}
+{"tokens": ["The", "reduction", "in", "tumor", "size", "was", "25", "%", "."], "labels": ["O", "B-METRIC", "O", "I-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["Median", "OS", "was", "30", "months", "."], "labels": ["B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "reduction", "rate", "was", "50", "%", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "mean", "survival", "time", "was", "36", "months", "."], "labels": ["O", "B-METRIC", "I-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "percentage", "reduction", "was", "30", "%", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "response", "duration", "was", "6", "months", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "response", "rate", "was", "67", "%", "in", "120", "patients", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O", "B-SAMPLE_SIZE", "I-SAMPLE_SIZE", "O"]}
+{"tokens": ["The", "median", "treatment", "duration", "was", "10", "weeks", "."], "labels": ["O", "B-METRIC", "I-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "median", "dose", "was", "20", "mg", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "study", "population", "included", "220", "patients", "."], "labels": ["O", "O", "O", "O", "B-SAMPLE_SIZE", "I-SAMPLE_SIZE", "O"]}
+{"tokens": ["The", "failure", "rate", "was", "12", "%", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["A", "total", "of", "300", "participants", "were", "included", "."], "labels": ["O", "O", "O", "B-SAMPLE_SIZE", "I-SAMPLE_SIZE", "O", "O", "O"]}
+{"tokens": ["The", "mean", "blood", "pressure", "was", "120", "mmHg", "."], "labels": ["O", "B-METRIC", "I-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "treatment", "cycle", "lasted", "21", "days", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "median", "BMI", "was", "26", "kg", "/", "m2", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "I-UNIT", "I-UNIT", "O"]}
+{"tokens": ["The", "incidence", "rate", "was", "15", "%", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "median", "follow-up", "time", "was", "20", "months", "."], "labels": ["O", "B-METRIC", "I-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "mean", "glucose", "level", "was", "100", "mg", "/", "dl", "."], "labels": ["O", "B-METRIC", "I-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "I-UNIT", "I-UNIT", "O"]}
+{"tokens": ["The", "dose", "administered", "was", "15", "mg", "."], "labels": ["O", "B-METRIC", "O", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["Median", "heart", "rate", "was", "75", "bpm", "."], "labels": ["B-METRIC", "I-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "trial", "included", "150", "patients", "."], "labels": ["O", "O", "O", "B-SAMPLE_SIZE", "I-SAMPLE_SIZE", "O"]}
+{"tokens": ["The", "response", "rate", "increased", "to", "80", "%", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["A", "cohort", "of", "140", "patients", "was", "included", "."], "labels": ["O", "O", "O", "B-SAMPLE_SIZE", "I-SAMPLE_SIZE", "O", "O", "O"]}
+{"tokens": ["The", "dose", "was", "5", "mg", "daily", "."], "labels": ["O", "B-METRIC", "O", "B-QUANT", "B-UNIT", "O", "O"]}
+{"tokens": ["The", "percentage", "of", "responders", "was", "55", "%", "."], "labels": ["O", "B-METRIC", "I-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "median", "survival", "rate", "was", "75", "%", "."], "labels": ["O", "B-METRIC", "I-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "tumor", "size", "decreased", "by", "45", "%", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["A", "population", "of", "180", "patients", "was", "studied", "."], "labels": ["O", "O", "O", "B-SAMPLE_SIZE", "I-SAMPLE_SIZE", "O", "O", "O"]}

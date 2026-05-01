@@ -1,0 +1,6 @@
+{"tokens": ["The", "incidence", "rate", "decreased", "to", "10", "%", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["A", "sample", "of", "75", "patients", "was", "evaluated", "."], "labels": ["O", "O", "O", "B-SAMPLE_SIZE", "I-SAMPLE_SIZE", "O", "O", "O"]}
+{"tokens": ["Median", "follow-up", "was", "14.2", "months", "."], "labels": ["B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "average", "temperature", "was", "37", "C", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "response", "rate", "improved", "to", "72", "%", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "O", "B-QUANT", "B-UNIT", "O"]}
+{"tokens": ["The", "average", "weight", "was", "70", "kg", "."], "labels": ["O", "B-METRIC", "I-METRIC", "O", "B-QUANT", "B-UNIT", "O"]}
